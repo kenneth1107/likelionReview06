@@ -25,8 +25,8 @@
 
 ### 팀원: 진솔빈
 - **GitHub**: [@username](https://github.com/username)
-- **Email**: email@example.com
-- **한 줄 소개**: 간단한 자기소개를 작성해주세요
+- **Email**: 내이름은 캬라멜마끼아또@example.com
+- **한 줄 소개**: 안녕하시렵니까
 
 ### 팀원: 남혜린
 - **GitHub**: [@username](https://github.com/username)
